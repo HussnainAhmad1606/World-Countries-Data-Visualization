@@ -1,0 +1,21 @@
+body {
+	font-family: 'Staatliches';
+}
+
+.btn-primary {
+	letter-spacing: 2px
+}
+
+#heading {
+	letter-spacing: 3px
+}
+
+#CountriesDataHeading {
+	font-size: 50px;
+	letter-spacing: 3px
+}
+
+#CountriesDataDesc {
+	font-size: 24px;
+	letter-spacing: 2px
+}
